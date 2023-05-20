@@ -29,14 +29,10 @@ on the message window.}
 {This program is written in C# using the System.Net, and System.Net.Sockets libraries}
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [microsoft.com](https://learn.microsoft.com/en-us/dotnet/api/system.net.sockets.tcplistener?redirectedfrom=MSDN&view=net-7.0)
 * [daveoncsharp.com](https://www.daveoncsharp.com/2009/08/csharp-chat-application-over-asynchronous-udp-sockets-part-1/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Cleaner UI
 * Change the code so that the program can be used on different systems
 * Define the port of the user so that they only need to enter the port and ip of the person to which they want to chat
