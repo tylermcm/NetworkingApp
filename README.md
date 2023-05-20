@@ -16,17 +16,17 @@ on the message window.}
 
 # Network Communication
 
-{This program is a peer to peer connection}
+This program is a peer to peer connection
 
-{I am using UDP and defining the ports when the program runs.}
+I am using UDP and defining the ports when the program runs.
 
-{The format is plain text using ASCII encoding.}
+The format is plain text using ASCII encoding.
 
 # Development Environment
 
-{I used Visual Studio and lots of Google searches}
+I used Visual Studio and lots of Google searches
 
-{This program is written in C# using the System.Net, and System.Net.Sockets libraries}
+This program is written in C# using the System.Net, and System.Net.Sockets libraries
 
 # Useful Websites
 * [microsoft.com](https://learn.microsoft.com/en-us/dotnet/api/system.net.sockets.tcplistener?redirectedfrom=MSDN&view=net-7.0)
